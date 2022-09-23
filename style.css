@@ -1,7 +1,7 @@
 .body {
     background-image: url(backgroundphoto.jpg);
     background-position-x: center;
-    background-repeat:round;
+    background-repeat:repeat-x
 }
 
 
@@ -65,9 +65,9 @@
     padding-bottom: 40px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    padding-top: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-top: 14px;
+    padding-left: 200px;
+    padding-right: 200px;
     text-align: justify;
 
 }
@@ -89,6 +89,32 @@
     background-size: 100% 3px;
 
 }
+
+#aboutUsHeader {
+
+     
+    border-color: #7e0184a7;
+    border-style:outset;
+    border-width: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    margin-left: 260px;
+    margin-right: 260px;
+    margin-bottom: 12%;
+    border-radius:10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    font-size: 40px;
+    align-content: center;
+    align-content: flex-end;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 30px;
+
+
+}
+
 
 
 
@@ -122,6 +148,10 @@
     color: rgb(0, 0, 256);
     
 }
+
+
+
+
 
 
 .programmingList {
